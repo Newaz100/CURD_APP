@@ -1,0 +1,10 @@
+C:\Users\Yeasin Newaz\source\repos\CRUD_APP\CRUD_APP\bin\Debug\CRUD_APP.exe.config
+C:\Users\Yeasin Newaz\source\repos\CRUD_APP\CRUD_APP\bin\Debug\CRUD_APP.exe
+C:\Users\Yeasin Newaz\source\repos\CRUD_APP\CRUD_APP\bin\Debug\CRUD_APP.pdb
+C:\Users\Yeasin Newaz\source\repos\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.csproj.AssemblyReference.cache
+C:\Users\Yeasin Newaz\source\repos\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.Properties.Resources.resources
+C:\Users\Yeasin Newaz\source\repos\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.csproj.GenerateResource.cache
+C:\Users\Yeasin Newaz\source\repos\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.csproj.CoreCompileInputs.cache
+C:\Users\Yeasin Newaz\source\repos\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.exe
+C:\Users\Yeasin Newaz\source\repos\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.pdb
+C:\Users\Yeasin Newaz\source\repos\CRUD_APP\CRUD_APP\obj\Debug\CRUD_APP.Crud.resources
